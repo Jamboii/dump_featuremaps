@@ -14,8 +14,12 @@ Dump featuremaps at a given layer, side-by-side with input image, in addition to
 
 This script does not yet support any type of image name. For now, variables like 'pattern' and 'm' will have to be changed according to the names of the images you are using for each class.
 
+# Feature Map Dump Example
+
+![Example Figure 1](out_0000.png)
+
 # Best Images Example
-![Example Figure](bestimages_plus15_output.png)
+![Example Figure 2](bestimages_plus15_output.png)
 
 # License
 
